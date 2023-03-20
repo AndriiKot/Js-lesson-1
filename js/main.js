@@ -1,0 +1,5 @@
+﻿console.log("HEllo world!")
+console.log( 13 + 23)
+console.log("13" + "23")
+console.log("13" + 23)
+console.log(13 + '23')
