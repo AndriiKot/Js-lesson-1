@@ -11,9 +11,9 @@ let my_first_name
 let my_last_name
 let full_name
 
-my_name = "Andrii"
+my_first_name = "Andrii"
 my_last_name = 'Kotsiuba'
-full_name = my_name + ' ' + my_last_name // Andrii Kotsiuba
+full_name = my_first_name + ' ' + my_last_name // Andrii Kotsiuba
 
 console.log(full_name)
 
