@@ -1,8 +1,8 @@
-﻿console.log("HEllo world!")
-console.log( 13 + 23)
-console.log("13" + "23")
-console.log("13" + 23)
-console.log(13 + '23')
+﻿console.log("Hello world!") // Hello world!
+console.log( 13 + 23)       // 36    typeof numeric
+console.log("13" + "23")    // 1323  typeof string
+console.log("13" + 23)      // 1323  typeof string
+console.log(13 + '23')      // 1323  typeof string
 //console.log("Good By!!!")
 /*
 comment
@@ -13,7 +13,7 @@ let full_name
 
 my_name = "Andrii"
 my_last_name = 'Kotsiuba'
-full_name = my_name + ' ' + my_last_name
+full_name = my_name + ' ' + my_last_name // Andrii Kotsiuba
 
 console.log(full_name)
 
