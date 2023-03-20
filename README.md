@@ -1,4 +1,5 @@
 # Js-lesson-1
+
 Js lesson 1
 ```javascript
 console.log("Hello world!") // Hello world!
@@ -6,10 +7,13 @@ console.log( 13 + 23)       // 36    typeof numeric
 console.log("13" + "23")    // 1323  typeof string
 console.log("13" + 23)      // 1323  typeof string
 console.log(13 + '23')      // 1323  typeof string
+
 //console.log("Good By!!!")
+
 /*
 comment
 */
+
 let my_first_name
 let my_last_name
 let full_name
